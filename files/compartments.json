@@ -1,0 +1,8 @@
+{"sheet":"compartments","columns":["id","location","hides","inspect_spot","tell_ids","verified"],
+"rows":[
+["comp_false_floor","trunk floor","contraband_small","trunk_floor",["tell_weight_sag"],false],
+["comp_spare_tyre","spare tyre well","contraband_small","spare_tyre",["tell_new_plates"],false],
+["comp_door_panel","rear door panel","contraband_small","door_panel",["tell_wrong_seal"],false],
+["comp_crate_bottom","double-bottom crate","contraband_medium","cargo_crate",["tell_smell","tell_weight_sag"],false],
+["comp_roof_box","roof box","contraband_medium","roof_box",["tell_too_clean"],false]
+]}

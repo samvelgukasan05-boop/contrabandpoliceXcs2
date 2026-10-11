@@ -1,0 +1,12 @@
+{"sheet":"tells","columns":["id","kind","description","shown_by","verified"],
+"rows":[
+["tell_story_mismatch","dialogue","Story doesn't match cargo on the manifest","driver_line",false],
+["tell_nervous_driver","behaviour","Driver avoids eye contact, fidgets","driver_anim",false],
+["tell_paperwork_date","document","Date or stamp on paperwork is off","document_ui",false],
+["tell_wrong_seal","object","Seal number differs from manifest","inspect_prompt",false],
+["tell_smell","object","Odd smell from cargo","inspect_prompt",false],
+["tell_weight_sag","object","Car sits low for its claimed load","vehicle_visual",false],
+["tell_new_plates","object","Fresh plates on an old car","inspect_prompt",false],
+["tell_too_clean","object","Suspiciously spotless part of the car","inspect_prompt",false],
+["tell_tool_dust","object","Tools with no wear or dust","inspect_prompt",false]
+]}

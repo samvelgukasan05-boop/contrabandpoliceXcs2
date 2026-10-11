@@ -1,0 +1,10 @@
+{"sheet":"hooks","note":"Host game hooks. Engine, loader and API unknown until Contraband Police's folder is inspected.","columns":["id","game_system","purpose","method","verified"],
+"rows":[
+["hook_vehicle_spawn","vehicle spawner","Pick cover story, cargo, compartment, driver per car","TODO_VERIFY",false],
+["hook_driver_model","NPC appearance","Swap driver/passenger model to CS2 cast","TODO_VERIFY",false],
+["hook_cargo_populate","vehicle cargo","Place visible cargo and decoys","TODO_VERIFY",false],
+["hook_inspect_spots","inspection system","Register compartments as inspectable","TODO_VERIFY",false],
+["hook_dialogue","driver dialogue","Show cover story and tell lines","TODO_VERIFY",false],
+["hook_cs2_loader","asset loading","Read CS2 models/sounds from {game:counter-strike-2}, convert to local cache","TODO_VERIFY",false],
+["hook_audio","audio","Play CS2 sound events","TODO_VERIFY",false]
+]}

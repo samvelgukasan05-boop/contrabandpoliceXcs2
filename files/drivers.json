@@ -1,0 +1,7 @@
+{"sheet":"drivers","columns":["id","cs2_cast_ref","role","smuggler_chance","voice_ref","verified"],
+"rows":[
+["drv_ct_sas","cs2_model_ct_sas","driver_or_passenger",0.15,"cs2_snd_ct_voice",false],
+["drv_ct_swat","cs2_model_ct_swat","driver_or_passenger",0.15,"cs2_snd_ct_voice",false],
+["drv_t_phoenix","cs2_model_t_phoenix","driver_or_passenger",0.35,"cs2_snd_t_voice",false],
+["drv_t_leet","cs2_model_t_leet","driver_or_passenger",0.35,"cs2_snd_t_voice",false]
+]}

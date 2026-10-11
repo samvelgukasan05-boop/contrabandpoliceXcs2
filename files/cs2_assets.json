@@ -1,0 +1,12 @@
+{"sheet":"cs2_assets","note":"References only. Resolved at run time from {game:counter-strike-2}; nothing is copied or shipped. All paths are candidates to confirm against the real install.","columns":["id","kind","path_in_cs2","used_by","verified"],
+"rows":[
+["cs2_model_ct_sas","character_model","TODO_VERIFY","drv_ct_sas",false],
+["cs2_model_ct_swat","character_model","TODO_VERIFY","drv_ct_swat",false],
+["cs2_model_t_phoenix","character_model","TODO_VERIFY","drv_t_phoenix",false],
+["cs2_model_t_leet","character_model","TODO_VERIFY","drv_t_leet",false],
+["cs2_prop_crate","prop_model","TODO_VERIFY","comp_crate_bottom",false],
+["cs2_prop_weapon_case","prop_model","TODO_VERIFY","cargo_tools",false],
+["cs2_snd_ct_voice","sound_event","TODO_VERIFY","drv_ct_*",false],
+["cs2_snd_t_voice","sound_event","TODO_VERIFY","drv_t_*",false],
+["cs2_snd_inspect","sound_event","TODO_VERIFY","tell_*",false]
+]}

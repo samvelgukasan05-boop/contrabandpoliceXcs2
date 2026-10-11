@@ -1,0 +1,8 @@
+{"sheet":"cargo_types","columns":["id","visible_items","decoy","weight_profile","verified"],
+"rows":[
+["cargo_medical","sealed boxes",true,"light",false],
+["cargo_household","furniture, cartons",true,"heavy",false],
+["cargo_produce","crates of fruit",true,"medium",false],
+["cargo_luggage","suitcases, bags",false,"light",false],
+["cargo_tools","toolboxes, ladders",true,"heavy",false]
+]}

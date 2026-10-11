@@ -1,0 +1,8 @@
+{"sheet":"cover_stories","columns":["id","story","cargo_claimed","route_claimed","tell_ids","difficulty","verified"],
+"rows":[
+["story_courier","Delivering medical supplies to a clinic","cargo_medical","clinic_run",["tell_paperwork_date","tell_wrong_seal"],1,false],
+["story_family","Family moving house","cargo_household","relocation",["tell_story_mismatch","tell_nervous_driver"],1,false],
+["story_farm","Hauling produce to market","cargo_produce","market_run",["tell_smell","tell_weight_sag"],2,false],
+["story_tourist","Tourists heading to the coast","cargo_luggage","holiday",["tell_new_plates","tell_too_clean"],2,false],
+["story_contractor","Contractor carrying tools to a job site","cargo_tools","job_site",["tell_tool_dust","tell_paperwork_date"],3,false]
+]}
